@@ -1,2 +1,5 @@
 # Thwip.
-Coming Soon Page using HTML and CSS with Water Ripple Effect
+
+Coming Soon Page with Water Ripple Effect
+
+This Website is created using HTML and CSS
